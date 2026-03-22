@@ -1,12 +1,3 @@
-
-很好，這份我也幫你看過了 👍
-👉 這是一個 **TinyLLaMA + LoRA 微調（Fine-tuning）專案**
-👉 比前面 BERT 更進階，**這個在求職上非常加分（LLM / GenAI）**
-
-我幫你整理成一份 **GitHub 專業 README（LLM 專案等級）**👇
-
----
-
 # 🧠 Fine-Tuning TinyLLaMA with LoRA
 
 ## 📌 Overview
