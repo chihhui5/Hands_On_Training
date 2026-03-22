@@ -1,4 +1,4 @@
-🎬 BERT for IMDb Sentiment Classification
+"🎬 BERT for IMDb Sentiment Classification"
 📌 Overview
 
 This project implements a sentiment classification model using a Transformer-based architecture (BERT) to classify movie reviews from the IMDb dataset as positive or negative.
